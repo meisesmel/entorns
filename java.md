@@ -100,5 +100,5 @@ Destaca a tenir:
 
 ![image](https://user-images.githubusercontent.com/114908591/201923822-4af55ab8-d7f9-4d14-ba61-2d53381e7058.png)
 
-
+- **Extensa col·lecció de plug-ins:** estan disponibles en una gran quantitat, unspublicats per Eclipse, altres per tercers. La col·lecció disponible és molt gran. N'hi ha de gratüits, de pagamaent i més. Un exemple és el Plug-in JDT, que és l'encarregat del suport de l'IDE al llenguatge Java, inclòs en la versiço estàndar d'Eclipse.
 
