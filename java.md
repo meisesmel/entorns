@@ -145,7 +145,7 @@ Destaca a tenir:
   
   - Interfície fàcil de fer servir, ideal per a principiants.
   
-  ![image](https://user-images.githubusercontent.com/114908591/202016791-ef99095b-3f03-47ed-a089-3e59d4968ee7.png)
+  ![image](https://user-images.githubusercontent.com/114908591/202017229-e38d7247-7a59-47d7-9b6c-2b0513e0aeab.png)
   
   - Trucades i creació d'objectes interactiva.
   
