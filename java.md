@@ -77,9 +77,9 @@
   ### Per què destaca?:
 
 Destaca a tenir:
-- un millor depurador.
-- una millor funcionalitat d'autocompletat.
-- un millor refactoring.
+- un **millor depurador**.
+- una millor **funcionalitat d'autocompletat**.
+- un millor **refactoring**.
 
 ## Eclipse
 
@@ -110,10 +110,10 @@ Destaca a tenir:
 ### Per què destaca?:
 
 Destaca a tenir:
-- Eina de codi obert.
-- Totes les funcionalitats d'Eclipse estan desenvolupades com a plug-ins.
-- És possible desenvolupar plug-ins personalitzats. 
-- Proporciona una plataforma RCP (Rich Client Plataform).
+- Eina de **codi obert**.
+- Totes les funcionalitats d'Eclipse estan desenvolupades com a **plug-ins**.
+- És possible desenvolupar **plug-ins personalitzats**. 
+- Proporciona una **plataforma RCP** (Rich Client Plataform).
 
 ## BlueJ
 
@@ -157,10 +157,10 @@ Destaca a tenir:
   ### Per què destaca?:
   
   Destaca a tenir:
-  - un sistema semblant a l'UML que ens modela de manera gràfica el comportament i les relacions que hi entre classes.
-  - pot interactuar amb objectes aïllats de qualsevol classe i executar els seus mètodes públics.
-  - està desenvolupat 100% sobre java, el que ho fa multiplataforma.
-  - utilitza molts pocs recursos de la màquina.
+  - un **sistema semblant a l'UML** que ens modela de manera gràfica el comportament i les relacions que hi entre classes.
+  - pot **interactuar amb objectes aïllats** de qualsevol classe i executar els seus mètodes públics.
+  - està desenvolupat 100% sobre java, el que ho fa **multiplataforma**.
+  - **utilitza molts pocs recursos** de la màquina.
   
 ## Jdeveloper
   - Està dispònible per als sistemes operatius següents: Windows, Linux, Mac OSX.
@@ -193,11 +193,11 @@ Destaca a tenir:
 
   ### Per què destaca?:
 
-      Destaca a tenir:
+  Destaca per tenir:
   
-      - Funcionalitats per al desenvolupament a Java, JavaScript, SQL, PL/SQL, HTML, XML, PHP i BPEL.
-      - Editors WYSIWYG per a HTML, JSP, JSF i Swing.
-      - Suport per a la interacció amb Maven i Ant.
+  - **Funcionalitats** per al desenvolupament a **Java**, JavaScript, **SQL**, PL/SQL, **HTML**, XML, PHP i BPEL.
+  - **Editors WYSIWYG** per a HTML, JSP, JSF i Swing.
+  - **Suport** per a la interacció amb Maven i Ant.
   
 ## Android Studio 
 
@@ -298,9 +298,8 @@ Destaca a tenir:
   
   ### Per què destaca?:
 
-   Destaca a tenir:
- 
-   - Eines de Lint per identificar problemes de rendiment, usabilitat i compatibilitat de versions, entre d'altres
+   Destaca per tenir:
+  
    - Integració amb **GitHub** i plantilles de codi per ajudar-te a compilar funcions de apps comunes i també importar codi de mostra
-   - Compatibilitat amb C++ i NDK
-   - Compatibilitat integrada amb Google Cloud Platform, que facilita la integració amb Google Cloud Messaging i App Engine.
+   - Compatibilitat amb **C++** i **NDK**.
+   - Compatibilitat integrada amb **Google Cloud Platform**, que facilita la integració amb Google Cloud Messaging i App Engine.
