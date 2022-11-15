@@ -137,7 +137,7 @@ Destaca a tenir:
   
   - Edició gràfica i textual.
   
-  ![image](https://user-images.githubusercontent.com/114908591/202015260-e11003e2-831a-4c10-a2b8-a4a32755d44d.png)
+  ![image](https://user-images.githubusercontent.com/114908591/202017424-d17f3f89-2cdb-4825-8926-12ad1c42aba4.png)
   
   - Built-in editor, compilador, màquina virtual, depurador.
   
