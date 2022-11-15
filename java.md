@@ -96,5 +96,9 @@ Destaca a tenir:
 
 ![image](https://user-images.githubusercontent.com/114908591/201922870-767903da-c018-4568-abab-40dd7fd19215.png)
 
-- **
+- **Depurador de codi:** s'hi inclou un potent depurador, d'ús fàcil i intuïtiu, i que visualment ens ajuda a millorar el nostre codi. Per això només hem d'executar el programa en mode depuració. De nou, tenim una perspectica específica per ala depuració de codi, la perspectica depuració, on es mostra de forma ordenada tota la infromaciço necessària per fer aquesta tasca.
+
+![image](https://user-images.githubusercontent.com/114908591/201923822-4af55ab8-d7f9-4d14-ba61-2d53381e7058.png)
+
+
 
