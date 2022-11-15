@@ -303,4 +303,4 @@ Destaca a tenir:
    - Eines de Lint per identificar problemes de rendiment, usabilitat i compatibilitat de versions, entre d'altres
    - Integració amb **GitHub** i plantilles de codi per ajudar-te a compilar funcions de apps comunes i també importar codi de mostra
    - Compatibilitat amb C++ i NDK
-   - Compatibilitat integrada amb Google Cloud Platform, que facilita la integració amb Google Cloud Messaging i App Engine
+   - Compatibilitat integrada amb Google Cloud Platform, que facilita la integració amb Google Cloud Messaging i App Engine.
