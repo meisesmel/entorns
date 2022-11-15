@@ -128,9 +128,28 @@ Destaca a tenir:
   
 ## Característiques
   - Ambient completament integrat.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202015787-75a31bf0-3571-492f-9480-627e424b67f6.png)
+ 
   - Visualització Gràfica de l'estructura de les classes.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202015450-7bf6ae88-6b46-42e9-bdfe-f45ac25db76b.png)
+  
   - Edició gràfica i textual.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202015260-e11003e2-831a-4c10-a2b8-a4a32755d44d.png)
+  
   - Built-in editor, compilador, màquina virtual, depurador.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202016676-82438f23-3fe9-4fe3-8b3a-f5da2e195bc2.png)
+  
   - Interfície fàcil de fer servir, ideal per a principiants.
-  - Trucades i cració d'objectes interactiva.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202016791-ef99095b-3f03-47ed-a089-3e59d4968ee7.png)
+  
+  - Trucades i creació d'objectes interactiva.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202016913-2ab81ef1-0e28-4d56-9e28-313a97494b01.png)
+
+  
  
