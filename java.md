@@ -238,9 +238,9 @@ Destaca a tenir:
 
     -  A ** Linux**:
        
-      Extrau el fitxer.zip que vau descarregar en una ubicació apropiada per a les vostres aplicacions, com a /usr/local/ per al vostre perfil d'usuari o /opt/ per a usuaris compartits. 
+       Extrau el fitxer.zip que vau descarregar en una ubicació apropiada per a les vostres aplicacions, com a /usr/local/ per al vostre perfil d'usuari o /opt/ per a usuaris compartits. 
   
-      Si utilitzeu una versió de Linux de 64 bits, assegureu-vos d'instal·lar primer les biblioteques requerides per a màquines de 64 bits.
+       Si utilitzeu una versió de Linux de 64 bits, assegureu-vos d'instal·lar primer les biblioteques requerides per a màquines de 64 bits.
 
        Obre una terminal, navega al directori *android-studio/bin/* i executa *studio.sh*.
   
@@ -263,19 +263,19 @@ Destaca a tenir:
   
     - A **ChromeOS**:
       
-      Si encara no ho heu fet, instal·leu [Linux per a ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=es-419) amb almenys 20 GB d'emmagatzematge lliure.
+       Si encara no ho heu fet, instal·leu [Linux per a ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=es-419) amb almenys 20 GB d'emmagatzematge lliure.
   
-      Obre l'app de Fitxers i cerca el paquet DEB que vas baixar a la carpeta Descàrregues a Els meus fitxers.
+       Obre l'app de Fitxers i cerca el paquet DEB que vas baixar a la carpeta Descàrregues a Els meus fitxers.
   
-      Feu clic amb el botó dret al paquet DEB i seleccioneu Instal·lar amb Linux (Beta).
+       Feu clic amb el botó dret al paquet DEB i seleccioneu Instal·lar amb Linux (Beta).
   
-      Ubicació del fitxer de destinació per al paquet DEB al sistema operatiu Chrome.
+       Ubicació del fitxer de destinació per al paquet DEB al sistema operatiu Chrome.
   
-      Si ja heu instal·lat Android Studio, seleccioneu si voleu importar la configuració anterior d'Android Studio i, a continuació, feu clic a OK.
+       Si ja heu instal·lat Android Studio, seleccioneu si voleu importar la configuració anterior d'Android Studio i, a continuació, feu clic a OK.
   
-      L'assistent de configuració d'Android Studio us guiarà per la resta de la configuració, cosa que inclou la descàrrega dels components de l'SDK d'Android que es necessitin per al desenvolupament.
+       L'assistent de configuració d'Android Studio us guiarà per la resta de la configuració, cosa que inclou la descàrrega dels components de l'SDK d'Android que es necessitin per al desenvolupament.
   
-      Quan es completi la instal·lació, inicia Android Studio des del Selector o des de la terminal de Linux del Chrome OS executant *studio.sh* al directori d'instal·lació predeterminat:
+       Quan es completi la instal·lació, inicia Android Studio des del Selector o des de la terminal de Linux del Chrome OS executant *studio.sh* al directori d'instal·lació predeterminat:
       
       */opt/android-studio/bin/studio.sh*
   
