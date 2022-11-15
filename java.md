@@ -111,3 +111,19 @@ Destaca a tenir:
 - Totes les funcionalitats d'Eclipse estan desenvolupades com a plug-ins.
 - És possible desenvolupar plug-ins personalitzats. 
 - Proporciona una plataforma RCP (Rich Client Plataform).
+
+## BlueJ
+
+- Està disponible per a sistemes operatius com Windows, macOS i altres sistemes.
+- Per instalar BlueJ:
+  - **en Windows:** el fitxer de distribució per als sistemes Windows és anomenat *BlueJ-xxx.sit* on *xxx* és el nombre de versió. Podeu descarregar el fitxer [aquí](https://www.bluej.org/). Després executeu l'instal·lador, us permetrà seleccionar un directori per instal·lar-lo. Finalitzada la instal·lació, trobareu el programa *bluej.exe* al directori d'instal·lació de BlueJ. També s'instal·larà automàticament un programa anomenat *vmselect.exe*, amb elqual podeu canviar la versió de Java. La selecció del JDK és emmagatzemada per a cada versió de BlueJ i la pots canviar tenint en compte que es canviaran totes les instal·lacions de BlueJ.
+  - **en Macintosh:** BlueJ només s'executa a MacOS X. L'arxiu de distribució per a MacOS és anomenat *BlueJ-xxx.sit*, on *xxx* és el nombre de versió. Podeu descarregar el fitxer [aquí](https://www.bluej.org/). Aquest fitxer pot ser descomprimit per l'expansor Stufflt. Després de descomprimir, vostè tindrà una carpeta anomenada *BlueJ-xxx*. Moveu aquesta carpeta dins de la seva carpeta d'Aplicacions. No són necessàries posteriors instal·lacions.
+  - **en Linux y otros sistemas:** el fitxer de distribució general és un fitxer jar executable. Es diu *bluej-xxx.jar*, on *xxx* és el nombre de versió. Podeu descarregar el fitxer [aquí](https://www.bluej.org/). Executeu l'instal·lador a través de l'ordre següent. 
+
+  NOTA: Per a aquest exemple, el fitxer utilitzat és el de la distribució *bluej-120.jar-*, necessites utilitzar el nom de l'arxiu que voleu utilitzar amb el nombre de versió correcte:
+  
+  *<jdk-path>/bin/java-jar bluej-120.jar*
+    
+  Pots escollir el directori d'instal·laci-o de BlueJ i la versió del JDK utilitzada per executar BlueJ. Feu clic a *Install*.
+  
+    
