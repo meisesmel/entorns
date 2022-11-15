@@ -126,4 +126,11 @@ Destaca a tenir:
     
   Pots escollir el directori d'instal·laci-o de BlueJ i la versió del JDK utilitzada per executar BlueJ. Feu clic a *Install*.
   
-    
+## Característiques
+  - Ambient completament integrat.
+  - Visualització Gràfica de l'estructura de les classes.
+  - Edició gràfica i textual.
+  - Built-in editor, compilador, màquina virtual, depurador.
+  - Interfície fàcil de fer servir, ideal per a principiants.
+  - Trucades i cració d'objectes interactiva.
+ 
