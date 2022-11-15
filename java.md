@@ -17,7 +17,7 @@
 - Per instal·lar IntelliJ IDEA:
 
 
-  - **a Ubuntu**, aquest al trobarse disponible com a Snap Package pots instal·larlo usant una sèrie d’ordres com: “sudo snap install intellij-idea-community –classic" sempre que la versió de l’Ubuntu sigui 16.04 o superior
+  - **a Ubuntu**, aquest al trobarse disponible com a Snap Package pots instal·larlo usant una sèrie d’ordres com: *sudo snap install intellij-idea-community –classic* sempre que la versió de l’Ubuntu sigui 16.04 o superior.
   
   
   - **a Windows**, es té que executar l’últim fitxer idea i seguir els passos suggerits per l’assistent. 
@@ -45,7 +45,7 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/201718528-b1676ac8-73ae-4af9-8fdc-7ca7e51bea10.png)
 
-### Característiques detallades del codi
+### Característiques detallades del codi:
 
 - **Inspeccions i accions contextuals:** IntelliJ DEA verifica la qualitat i la validesa del seu codi amb inspeccions sobre la marxa, això ajuda a programar més ràpid. Si hi ha algun problema el programa ofereix ajuda per resoldre'l mitjançant accions contextuals.
 
@@ -71,7 +71,20 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/201733757-3e02977b-10d4-452c-af3a-e1373cdeb9f1.png)
 
+### Per què destaca?:
 
+Destaca a tenir:
+- un millor depurador.
+- una millor funcionalitat d'autocompletat.
+- un millor refactoring
+
+## Eclipse
+
+- Està disponible per a sistemes operatius com Windows, Linux, Solaris, QNX o Mac OS/X  
+- Per instalar Eclipse se segueixen aquests passos:
+  - Instal·lar JRE o JDK
+  - Descomprimir els fitxers d'Eclipse al lloc desitjat del disc dur. EL directori on s'insatl·li l'identificarem d'ara endavant com a ECLIPSE_HOME. Al WIndows Eclipse detecta automàticaments un JRE o JDK instal·lat,encara que també el podem proporcioanr copiant el directori JRE a ECLIPSE_HOME. 
+  - Una altra opció és proporcionar al executar Eclipse, la ruta cap a JRE o JDK mitjaçant aquesta comanda: *eclipse -vm ruta_jdk_jre*
 
 
 
