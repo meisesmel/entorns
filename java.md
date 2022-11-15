@@ -104,3 +104,10 @@ Destaca a tenir:
 
 ![image](https://user-images.githubusercontent.com/114908591/201927981-99274a89-d5bc-469a-879a-83cdbff3ef00.png)
 
+### Per què destaca?:
+
+Destaca a tenir:
+- Eina de codi obert.
+- Totes les funcionalitats d'Eclipse estan desenvolupades com a plug-ins.
+- És possible desenvolupar plug-ins personalitzats. 
+- Proporciona una plataforma RCP (Rich Client Plataform).
