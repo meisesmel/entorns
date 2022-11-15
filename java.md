@@ -10,7 +10,7 @@
 
 - Android Studio 
 
-## Idea Intellij 
+## Idea Intellij
 
 - Està disponible per a sistemes operatius com Windows, macOS i Linux. 
 
@@ -85,6 +85,16 @@ Destaca a tenir:
   - Instal·lar JRE o JDK
   - Descomprimir els fitxers d'Eclipse al lloc desitjat del disc dur. EL directori on s'insatl·li l'identificarem d'ara endavant com a ECLIPSE_HOME. Al WIndows Eclipse detecta automàticaments un JRE o JDK instal·lat,encara que també el podem proporcioanr copiant el directori JRE a ECLIPSE_HOME. 
   - Una altra opció és proporcionar al executar Eclipse, la ruta cap a JRE o JDK mitjaçant aquesta comanda: *eclipse -vm ruta_jdk_jre*
+ 
+ ### Característiques:
+ 
+- **Perspectives, editors i vistes:** a Eclipse el concepte de treball està basat en les perspetives, que no és altra cosa que una preocngifuració de finestres i editors, relacionades entre si, i que ens permeten treballar en un determiant entorn de treball de forma òptima.
 
+![image](https://user-images.githubusercontent.com/114908591/201921301-b799e7cb-551f-4d27-8f06-74fa3cf8640e.png)
 
+- **Gestió de projectes:** el desenvolupament sobre Eclipse es basa en els projectes, que són el conjunt de recursos relacionats entre si. L'IDE ens proporcionarà assitens i ajusts per a la creació de projectes.
+
+![image](https://user-images.githubusercontent.com/114908591/201922870-767903da-c018-4568-abab-40dd7fd19215.png)
+
+- **
 
