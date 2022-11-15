@@ -207,7 +207,9 @@ Destaca a tenir:
      - **Chrome OS**. 
      - Ha sido diseñado específicamente para el desarrollo de **Android**.
   - Per a instal·lar Android Studio:
-     - A Windows:
+  
+     - A **Windows**:
+  
        Si heu descarregat un *fitxer.exe* (recomanat), feu-hi doble clic per iniciar-lo.
        
        Si heu baixat un *fitxer.zip*, extraieu-lo i copieu la carpeta android-studio a la carpeta Fitxers de programa.
@@ -219,3 +221,66 @@ Destaca a tenir:
        En el següent [vídeo](https://developer.android.com/static/studio/videos/studio-install-windows.mp4?hl=es-419), es mostra cada pas del procediment de configuració quan es fa servir la descàrrega de .exe recomanada.
   
        Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Help > Check for Update.
+  
+     - A **Mac**:
+      
+       Executeu el fitxer DMG d'Android Studio.
+      
+       Arrossega i deixa anar Android Studio a la carpeta Aplicacions i, després, inicia-ho.
+  
+       Trieu si voleu importar configuracions anteriors d'Android Studio i, a continuació, feu clic a OK.
+  
+       L'assistent de configuració d'Android Studio us guiarà per la resta de la configuració, cosa que inclou la descàrrega dels components de l'SDK d'Android que es necessitin per al desenvolupament.
+  
+       En el següent [vídeo](https://developer.android.com/static/studio/videos/studio-install-mac.mp4?hl=es-419), es mostra cada pas del procediment de configuració recomanat.
+  
+       Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Android Studio > Check for Updates.
+
+    -  A ** Linux**:
+       
+      Extrau el fitxer.zip que vau descarregar en una ubicació apropiada per a les vostres aplicacions, com a /usr/local/ per al vostre perfil d'usuari o /opt/ per a usuaris compartits. 
+  
+      Si utilitzeu una versió de Linux de 64 bits, assegureu-vos d'instal·lar primer les biblioteques requerides per a màquines de 64 bits.
+
+       Obre una terminal, navega al directori *android-studio/bin/* i executa *studio.sh*.
+  
+       Selecciona si vols o no importar configuracions anteriors d'Android Studio i, després, fes clic a OK.
+  
+       L'assistent de configuració d'Android Studio us guiarà per la resta de la configuració, cosa que inclou la descàrrega dels components de l'SDK d'Android que es necessitin per al desenvolupament.
+  
+       Si executeu una versió d'Ubuntu de 64 bits, haureu d'instal·lar algunes biblioteques de 32 bits amb l'ordre següent:
+        
+         *sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386* 
+  
+       Si feu servir Fedora de 64 bits, l'ordre és la següent:
+          
+         *sudo yum install zlib.i686 ncurses-libs.i686 bzip2-libs.i686*
+  
+       En el següent [vídeo](https://developer.android.com/static/studio/videos/studio-install-linux.mp4?hl=es-419), es mostra cada pas del procediment de configuració recomanat.
+  
+         Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Android Studio > Check for Updates.
+
+  
+    - A **ChromeOS**:
+      
+      Si encara no ho heu fet, instal·leu [Linux per a ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=es-419) amb almenys 20 GB d'emmagatzematge lliure.
+  
+      Obre l'app de Fitxers i cerca el paquet DEB que vas baixar a la carpeta Descàrregues a Els meus fitxers.
+  
+      Feu clic amb el botó dret al paquet DEB i seleccioneu Instal·lar amb Linux (Beta).
+  
+      Ubicació del fitxer de destinació per al paquet DEB al sistema operatiu Chrome.
+  
+      Si ja heu instal·lat Android Studio, seleccioneu si voleu importar la configuració anterior d'Android Studio i, a continuació, feu clic a OK.
+  
+      L'assistent de configuració d'Android Studio us guiarà per la resta de la configuració, cosa que inclou la descàrrega dels components de l'SDK d'Android que es necessitin per al desenvolupament.
+  
+      Quan es completi la instal·lació, inicia Android Studio des del Selector o des de la terminal de Linux del Chrome OS executant *studio.sh* al directori d'instal·lació predeterminat:
+      
+          */opt/android-studio/bin/studio.sh*
+  
+      Es veu així. Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Help > Check for Update.
+  
+  ### Característiques:
+    
+  
