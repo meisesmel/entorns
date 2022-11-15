@@ -126,7 +126,7 @@ Destaca a tenir:
     
   Pots escollir el directori d'instal·laci-o de BlueJ i la versió del JDK utilitzada per executar BlueJ. Feu clic a *Install*.
   
-## Característiques
+### Característiques
   - Ambient completament integrat.
   
   ![image](https://user-images.githubusercontent.com/114908591/202015787-75a31bf0-3571-492f-9480-627e424b67f6.png)
@@ -150,6 +150,13 @@ Destaca a tenir:
   - Trucades i creació d'objectes interactiva.
   
   ![image](https://user-images.githubusercontent.com/114908591/202016913-2ab81ef1-0e28-4d56-9e28-313a97494b01.png)
-
+  
+  ### Per què destaca?:
+  
+  Destaca a tenir:
+  - un sistema semblant a l'UML que ens modela de manera gràfica el comportament i les relacions que hi entre classes.
+  - pot interactuar amb objectes aïllats de qualsevol classe i executar els seus mètodes públics.
+  - està desenvolupat 100% sobre java, el que ho fa multiplataforma.
+  - utilitza molts pocs recursos de la màquina.
   
  
