@@ -1,14 +1,14 @@
 # 5 IDEs DE DESENVOLUPAMENT DE JAVA 
 
-- Idea IntelliJ 
+- Idea IntelliJ. 
 
-- Eclipse 
+- Eclipse. 
 
-- BlueJ 
+- BlueJ. 
 
-- Jdeveloper 
+- Jdeveloper. 
 
-- Android Studio 
+- Android Studio. 
 
 ## Idea Intellij
 
