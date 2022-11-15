@@ -24,7 +24,9 @@
   
   
   - **a macOS**, es té que baixar l’últim fitxer d’imatge i montar-lo com un altre disc al nostre sistema, després copiem IntelliJ IDEA a la carpeta d’aplicacions.
-### Característiques:
+  
+  
+  ### Característiques:
 - **Inici fàcil:** pots començar a treballar segons després d'iniciar el programa ja que Intellij IDEA configurarà els paràmetres per tu.
       
 ![image](https://user-images.githubusercontent.com/114908591/201702266-d0accf04-b5cc-4784-864b-1fa4bc213e6a.png)
@@ -45,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/201718528-b1676ac8-73ae-4af9-8fdc-7ca7e51bea10.png)
 
-### Característiques detallades del codi:
+  ### Característiques detallades del codi:
 
 - **Inspeccions i accions contextuals:** IntelliJ DEA verifica la qualitat i la validesa del seu codi amb inspeccions sobre la marxa, això ajuda a programar més ràpid. Si hi ha algun problema el programa ofereix ajuda per resoldre'l mitjançant accions contextuals.
 
@@ -71,12 +73,12 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/201733757-3e02977b-10d4-452c-af3a-e1373cdeb9f1.png)
 
-### Per què destaca?:
+  ### Per què destaca?:
 
 Destaca a tenir:
 - un millor depurador.
 - una millor funcionalitat d'autocompletat.
-- un millor refactoring
+- un millor refactoring.
 
 ## Eclipse
 
@@ -159,4 +161,61 @@ Destaca a tenir:
   - està desenvolupat 100% sobre java, el que ho fa multiplataforma.
   - utilitza molts pocs recursos de la màquina.
   
- 
+## Jdeveloper
+  - Està dispònible per als sistemes operatius següents: Windows, Linux, Mac OSX.
+  - Per instal·lar Jdeveloper:
+    - Troba el fitxer d'Oracle JDeveloper al teu PC.
+        
+      **A Windows**, prem Control + J.
+  
+      **A Mac**, utilitza Shift + Command + J.
+  
+      **A Linux**, executar l'ordre *chmod +x idevstudio11113install.bin.*
+  
+    - Fes clic sobre el fitxer descarregat. 
+    - Seguiu les instruccions del procés d'instal·lació a la pantalla.
+  
+  ### Característiques
+  
+  -**Funcionalitat:** per a les fases de disseny, codificació, depuració.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202024011-0c5a2dc7-df75-4552-b820-0643edd651c1.png)
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202025445-b59af2af-3a0e-422d-ad67-9d1f11546067.png)
+
+  ![image](https://user-images.githubusercontent.com/114908591/202025216-d0093c03-9227-4cc8-91bc-2ce5932bc47b.png)
+
+  
+  - **Desplegament:** mitjaçant una aproximació visual i declarativa.
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202025599-51edb980-8f82-4979-8847-5e914e7b4976.png)
+
+  ### Per què destaca?:
+
+      Destaca a tenir:
+  
+      - Funcionalitats per al desenvolupament a Java, JavaScript, SQL, PL/SQL, HTML, XML, PHP i BPEL.
+      - Editors WYSIWYG per a HTML, JSP, JSF i Swing.
+      - Suport per a la interacció amb Maven i Ant.
+  
+## Android Studio 
+
+  - Està dispònible per als sistemes operatius següents:
+     - **GNU/Linux**.
+     - **macOS**. 
+     - **Microsoft Windows**.
+     - **Chrome OS**. 
+     - Ha sido diseñado específicamente para el desarrollo de **Android**.
+  - Per a instal·lar Android Studio:
+     - A Windows:
+       Si heu descarregat un *fitxer.exe* (recomanat), feu-hi doble clic per iniciar-lo.
+       
+       Si heu baixat un *fitxer.zip*, extraieu-lo i copieu la carpeta android-studio a la carpeta Fitxers de programa.
+  
+       A continuació, obre la carpeta android-studio > bin i, a continuació, inicia *studio64.exe* (per a màquines de 64 bits) o *studio.exe* (per a les de 32 bits).
+  
+       Seguiu els passos de l'assistent de configuració a Android Studio i assegureu-vos d'instal·lar els paquets de SDK que recomaneu.
+  
+       En el següent [vídeo](https://developer.android.com/static/studio/videos/studio-install-windows.mp4?hl=es-419), es mostra cada pas del procediment de configuració quan es fa servir la descàrrega de .exe recomanada.
+  
+       Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Help > Check for Update.
