@@ -250,15 +250,15 @@ Destaca a tenir:
   
        Si executeu una versió d'Ubuntu de 64 bits, haureu d'instal·lar algunes biblioteques de 32 bits amb l'ordre següent:
         
-         *sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386* 
+       *sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386* 
   
        Si feu servir Fedora de 64 bits, l'ordre és la següent:
           
-         *sudo yum install zlib.i686 ncurses-libs.i686 bzip2-libs.i686*
+       *sudo yum install zlib.i686 ncurses-libs.i686 bzip2-libs.i686*
   
        En el següent [vídeo](https://developer.android.com/static/studio/videos/studio-install-linux.mp4?hl=es-419), es mostra cada pas del procediment de configuració recomanat.
   
-         Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Android Studio > Check for Updates.
+       Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Android Studio > Check for Updates.
 
   
     - A **ChromeOS**:
@@ -277,7 +277,7 @@ Destaca a tenir:
   
       Quan es completi la instal·lació, inicia Android Studio des del Selector o des de la terminal de Linux del Chrome OS executant *studio.sh* al directori d'instal·lació predeterminat:
       
-          */opt/android-studio/bin/studio.sh*
+      */opt/android-studio/bin/studio.sh*
   
       Es veu així. Quan hi hagi eines noves i altres API disponibles, Android Studio us ho informarà per mitjà d'una finestra emergent. També podeu cercar actualitzacions si feu clic a Help > Check for Update.
   
