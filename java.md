@@ -27,6 +27,7 @@
   
   
   ### Característiques:
+  
 - **Inici fàcil:** pots començar a treballar segons després d'iniciar el programa ja que Intellij IDEA configurarà els paràmetres per tu.
       
 ![image](https://user-images.githubusercontent.com/114908591/201702266-d0accf04-b5cc-4784-864b-1fa4bc213e6a.png)
@@ -283,4 +284,24 @@ Destaca a tenir:
   
   ### Característiques:
     
+  - Un sistema de **compilació flexible** basat en Gradle.
   
+    ![image](https://user-images.githubusercontent.com/114908591/202034602-27a41142-6ca2-433e-802b-effddab2cc44.png)
+
+  - Un **entorn unificat**: on pots desenvolupar per a tots els dispositius Android
+  
+  ![image](https://user-images.githubusercontent.com/114908591/202035140-5dfadcd8-d348-4fbf-899b-692b42b0f46b.png)
+ 
+  - **Varietat** de **marcs** de treball i **eines** de prova: eines de Lint per identificar problemes de rendiment, usabilitat i compatibilitat de versions, entre d'altres.
+ 
+  ![image](https://user-images.githubusercontent.com/114908591/202035873-11a55fee-f7d1-4d8b-a85a-6652c06c880d.png)
+  
+  ### Per què destaca?:
+
+      Destaca a tenir:
+  
+      - Eines de Lint per identificar problemes de rendiment, usabilitat i compatibilitat de versions, entre d'altres
+      - Integració amb **GitHub** i plantilles de codi per ajudar-te a compilar funcions de apps comunes i també importar codi de mostra
+      - Compatibilitat amb C++ i NDK
+      - Compatibilitat integrada amb Google Cloud Platform, que facilita la integració amb Google Cloud Messaging i App Engine
+
