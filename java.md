@@ -133,7 +133,7 @@ Destaca a tenir:
  
   - Visualització Gràfica de l'estructura de les classes.
   
-  ![image](https://user-images.githubusercontent.com/114908591/202015450-7bf6ae88-6b46-42e9-bdfe-f45ac25db76b.png)
+  ![image](https://user-images.githubusercontent.com/114908591/202017758-4db5d813-f684-488c-b07d-9f9b50fb50ba.png)
   
   - Edició gràfica i textual.
   
@@ -141,7 +141,7 @@ Destaca a tenir:
   
   - Built-in editor, compilador, màquina virtual, depurador.
   
-  ![image](https://user-images.githubusercontent.com/114908591/202016676-82438f23-3fe9-4fe3-8b3a-f5da2e195bc2.png)
+  ![image](https://user-images.githubusercontent.com/114908591/202017572-98eed42a-4105-4113-9fe7-bcc8e2d0d089.png)
   
   - Interfície fàcil de fer servir, ideal per a principiants.
   
