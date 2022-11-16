@@ -130,27 +130,27 @@ Destaca a tenir:
   Pots escollir el directori d'instal·laci-o de BlueJ i la versió del JDK utilitzada per executar BlueJ. Feu clic a *Install*.
   
 ### Característiques
-  - Ambient completament integrat.
+  - **Ambient completament integrat**.
   
   ![image](https://user-images.githubusercontent.com/114908591/202015787-75a31bf0-3571-492f-9480-627e424b67f6.png)
  
-  - Visualització Gràfica de l'estructura de les classes.
+  - **Visualització Gràfica de l'estructura de les classes**.
   
   ![image](https://user-images.githubusercontent.com/114908591/202017424-d17f3f89-2cdb-4825-8926-12ad1c42aba4.png)
   
-  - Edició gràfica i textual.
+  - **Edició gràfica i textual**.
    
   ![image](https://user-images.githubusercontent.com/114908591/202017758-4db5d813-f684-488c-b07d-9f9b50fb50ba.png)
     
-  - Built-in editor, compilador, màquina virtual, depurador.
+  - **Built-in editor, compilador, màquina virtual, depurador**.
   
   ![image](https://user-images.githubusercontent.com/114908591/202017572-98eed42a-4105-4113-9fe7-bcc8e2d0d089.png)
   
-  - Interfície fàcil de fer servir, ideal per a principiants.
+  - **Interfície fàcil de fer servir, ideal per a principiants**.
   
   ![image](https://user-images.githubusercontent.com/114908591/202017229-e38d7247-7a59-47d7-9b6c-2b0513e0aeab.png)
   
-  - Trucades i creació d'objectes interactiva.
+  - **Trucades i creació d'objectes interactiva**.
   
   ![image](https://user-images.githubusercontent.com/114908591/202016913-2ab81ef1-0e28-4d56-9e28-313a97494b01.png)
   
