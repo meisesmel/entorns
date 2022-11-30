@@ -1,19 +1,19 @@
 # Exercici 1
 
-## A
+### A
 
 ![image](https://user-images.githubusercontent.com/114908591/204734834-6fea83eb-c933-4b70-aaed-8558f348b528.png)
 
 CC = nombre de branques - nombre de nodes +2 = 16 - 14 +2 = 4
 
-## B
+### B
 
 ![image](https://user-images.githubusercontent.com/114908591/204735562-392fdbe9-57b1-411c-b1c6-13804d55fe02.png)
 
 CC = nombre de branques - nombre de nodes +2 = 16 - 14 +2 = 4
 
 
-## C
+### C
 ![image](https://user-images.githubusercontent.com/114908591/204735861-75f0dde7-ef53-46ce-b1ea-8bda0235508a.png)
 
 CC = nombre de branques - nombre de nodes +2 = 8 - 6 + 2 = 4
