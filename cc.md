@@ -14,7 +14,8 @@ CC = nombre de branques - nombre de nodes +2 = 16 - 14 +2 = 4
 
 
 ### C
-![image](https://user-images.githubusercontent.com/114908591/204735861-75f0dde7-ef53-46ce-b1ea-8bda0235508a.png)
+
+![image](https://user-images.githubusercontent.com/114908591/204760089-0cc94d44-0105-40cc-a427-bfc3a539e2ad.png)
 
 CC = nombre de branques - nombre de nodes +2 = 8 - 6 + 2 = 4
 
