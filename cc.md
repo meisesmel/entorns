@@ -4,31 +4,31 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/204734834-6fea83eb-c933-4b70-aaed-8558f348b528.png)
 
-CC = nombre de branques - nombre de nodes +2 = 16 - 14 +2 = 4
+**CC =** nombre de branques - nombre de nodes +2 = 16 - 14 +2 = **4**
 
 ### B
 
 ![image](https://user-images.githubusercontent.com/114908591/204735562-392fdbe9-57b1-411c-b1c6-13804d55fe02.png)
 
-CC = nombre de branques - nombre de nodes +2 = 16 - 14 +2 = 4
+**CC =** nombre de branques - nombre de nodes +2 = 16 - 14 +2 = **4**
 
 
 ### C
 
 ![image](https://user-images.githubusercontent.com/114908591/204760089-0cc94d44-0105-40cc-a427-bfc3a539e2ad.png)
 
-CC = nombre de branques - nombre de nodes +2 = 8 - 6 + 2 = 4
+**CC =** nombre de branques - nombre de nodes +2 = 8 - 6 + 2 = **4**
 
 
 # Exercici 2
 
-CC = 2+1 = 3
+**CC =** 2+1 = **3**
 
-1 -> A = 354 B =10 C= 9
+**1 ->** A = 354 B =10 C= 9
 
-2-> A = 354 B = 9 C= 10
+**2->** A = 354 B = 9 C= 10
 
-3-> A = 400 B = 10 C = 10
+**3->** A = 400 B = 10 C = 10
 
 ![image](https://user-images.githubusercontent.com/114908591/204743406-fafa1e32-bc52-4593-b83b-58d9ace77f58.png)
 
@@ -45,12 +45,12 @@ CC = 2+1 = 3
 
 
 # Exercici 5
-- Què són?
+**- Què són?**
 
 Conegudes com a black box testing es una tècnica utilitzada per a verificar les funcionalitats del software o de alguna aplicació analitzada, sense prendre com a referent l'estructura del codi inter, les rutes de tipus internes ni la informació referent a laimplementació. Això significa que 
 la prova es porta a terme amb desconexiemtnt del funcionament del sistema intern, en enfocar-se a l'entrada i sortida d'un programari, prenent com a base les especificacions i els requisits.
 
-- Quina diferència principal tenen sobre les de caixa blanca?
+**- Quina diferència principal tenen sobre les de caixa blanca?**
 
 | PROVA DE CAIXA NEGRA  | PROVA DE CAIXA BLANCA |
 | ------------- | ------------- |
